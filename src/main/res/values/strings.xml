@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="RU">Рубли</string>
+    <string name="US">Доллары США</string>
+    <string name="Convert">Сконвертировать</string>
+    <string name="Enter">Введите сумму в рублях или долларах.</string>
+
+</resources>
